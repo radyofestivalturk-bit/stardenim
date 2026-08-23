@@ -1,0 +1,7 @@
+{
+  "name": "STAR DENİM - Toptan Kumaş Satışı",
+  "description": "STAR DENİM, tekstil üreticileri ve profesyonel tekstil işletmeleri için toptan kumaş satışı ve kumaş tedariki sunar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
